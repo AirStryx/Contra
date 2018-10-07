@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Avatar">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Avatar::ActionState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Avatar.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Avatar::AimDirection" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Avatar.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQRABAABCIUAIgCEgQYAEAAS8CgAERQABkEAAAAAAEg=</HashCode>
+      <FileName>Avatar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge">
+    <Position X="3.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEAAAABAAggAAAAEAlwCACAFAAgEACACEQREAAI=</HashCode>
+      <FileName>Bridge.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Camera">
+    <Position X="10.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAABAGAAAAABQAAAAAgQAIAAAACAIAAAAAAAAAA=</HashCode>
+      <FileName>Camera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="12.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQCAAAAAAgAB4AQAAAAAIAAEAiAAAAAAAIgAEyEBCA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IB6QAIAAAAAABCAAAAAIEAYAAICAAAAjAAAEAgAAwAA=</HashCode>
+      <FileName>level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeExplosion">
+    <Position X="5.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIYAABAAIAAAAiBAAAAAAEAQAAAAEBBAAAACAABAAAA=</HashCode>
+      <FileName>BridgeExplosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet">
+    <Position X="7" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAIAAAIAAAgAAAAABAgAAAAAAEhQEAAAoAAAQAAA=</HashCode>
+      <FileName>Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
